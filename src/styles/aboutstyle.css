@@ -1,0 +1,27 @@
+.about-img{
+    position:relative;
+    top:50px;
+    left:150px;
+    height:400px;
+
+}
+.about-text{
+    position:relative;
+    left:800px;
+    top:-300px;
+}
+.card{
+    background-color: white;
+}
+.card-body3{
+    position:relative;
+    top:-100px;
+    height:100px;
+    width:1800px;
+    padding:100px;
+    background-color: azure;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  
+}
+.icon{
+    margin:100px;
+}

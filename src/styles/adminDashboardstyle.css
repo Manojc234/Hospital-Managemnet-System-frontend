@@ -1,0 +1,15 @@
+.logout{
+    color:#f4f4f4;
+    background-color: rgba(34, 25, 198, 0.932);
+    border:1px solid black;
+    border-radius:5px;
+    position:relative;
+    top:-20px;
+}
+.dashboard{
+    height:1000px;
+    width:250px;
+    background-color:rgba(34, 25, 198, 0.932);
+    color:#f4f4f4;
+    font-size: 20px;
+}

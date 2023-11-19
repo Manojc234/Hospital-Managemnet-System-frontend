@@ -1,0 +1,72 @@
+.img{
+    height:600px;
+    background-size: cover;
+    width:1600px;
+}
+.contain{
+    position:absolute;
+    height:500px;
+    
+    
+
+}
+.logo-text{
+   color:#f4f4f4;
+   font-weight: 600;
+    
+}
+.textonimage1{
+    color:rgba(34, 25, 198, 0.932);
+    position:absolute;
+    top:200px;
+    left:100px;
+
+}
+.textonimage2{
+    color:rgba(34, 25, 198, 0.932);
+    text-size-adjust: 40px;
+    position:absolute;
+    top:280px;
+    left:100px;
+
+}
+.conatiner .img{
+    
+    background-size:cover ;
+    background-attachment:scroll;
+    background-repeat:no-repeat;
+}
+
+.nav-text:hover{
+   
+    
+    font-weight:bolder;
+    
+
+}
+
+
+
+.card-body{
+    position:absolute;
+    top:-135px;
+    left:300px;
+    height:220px;
+    width:400px;
+    background-color: rgba(34, 25, 198, 0.932);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius:5px;
+}
+.card-body2{
+    position:absolute;
+    top:500px;
+    left:850px;
+    height:220px;
+    width:430px;
+    padding-left:15px ;
+    background-color: rgba(34, 25, 198, 0.932);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius:5px;
+}
+
+

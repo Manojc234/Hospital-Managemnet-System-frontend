@@ -1,0 +1,28 @@
+.contact-text{
+    color:rgba(34, 25, 198, 0.932);
+    position:relative;
+    top:100px;
+    left:600px;
+}
+.maps{
+    position:relative;
+    top:150px;
+    left:250px;
+}
+.icon-img{
+    position:relative;
+    top:-200px;
+    left:900px;
+}
+.container-fluid{
+    background-color:rgba(34, 25, 198, 0.932);
+    color:#f4f4f4;
+    position:relative;
+    top:100px;
+    display:flex;
+    justify-content: space-around;
+}
+.footer-heading{
+    font-size: 20px;
+
+}
